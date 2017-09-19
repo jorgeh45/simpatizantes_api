@@ -1,0 +1,7 @@
+{
+    "host": "localhost",
+    "dbname": "Simpatizantes",
+    "user": "neo",
+    "passwd":"admin"
+
+}
