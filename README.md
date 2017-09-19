@@ -1,3 +1,3 @@
 # simpatizantes_api
 
-# Can run with gunicorn
+# you can run it with gunicorn
